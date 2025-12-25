@@ -1,0 +1,12 @@
+[project]
+name = "langgraph-app"
+version = "0.1.0"
+description = "A simple LangGraph and Streamlit app"
+requires-python = ">=3.9"
+dependencies = [
+    "streamlit",
+    "langgraph",
+    "langchain-core",
+    "langchain-openai",
+    "python-dotenv",
+]
