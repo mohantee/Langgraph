@@ -9,4 +9,12 @@ dependencies = [
     "langchain-core",
     "langchain-openai",
     "python-dotenv",
+    "langchain",
+    "langchain-community",
+    "faiss-cpu",
+    "pypdf",
+    "duckduckgo-search",
+    "langchain-text-splitters",
+    "langgraph-checkpoint-sqlite",
+    "ddgs"
 ]
